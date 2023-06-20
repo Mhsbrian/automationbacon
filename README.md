@@ -51,3 +51,30 @@
 - **Ansible**: Alternative - [Puppet](https://puppet.com/)
 - **Cacti**: Alternative - [Zabbix](https://www.zabbix.com/)
 
+
+### Are you strickly a FOSS only administrator? Here are more tools!
+
+### Administrator Usage:
+- **Remote Desktop Manager**: Alternative - [Remmina](https://remmina.org/)
+- **LastPass**: Alternative - [KeePassXC](https://keepassxc.org/)
+- **TeamViewer**: Alternative - [AnyDesk](https://anydesk.com/)
+- **PuTTY**: Alternative - [KiTTY](http://www.9bis.net/kitty/)
+- **Wireshark**: Alternative - [tcpdump](https://www.tcpdump.org/)
+- **Nmap**: Alternative - [Zenmap](https://nmap.org/zenmap/)
+- **Sysinternals Suite**: Alternative - [Sysdig](https://sysdig.com/opensource/)
+
+### Windows Management:
+- **Active Directory Users and Computers**: Alternative - [Adaxes](https://www.adaxes.com/)
+- **PDQ Deploy**: Alternative - [Chocolatey](https://chocolatey.org/)
+- **WSUS (Windows Server Update Services)**: Alternative - [WSUS Offline Update](https://www.wsusoffline.net/)
+- **Group Policy Management Console**: Alternative - [Advanced Group Policy Management (AGPM)](https://docs.microsoft.com/en-us/microsoft-desktop-optimization-pack/agpm/overview)
+- **Process Explorer**: Alternative - [Process Hacker](https://processhacker.sourceforge.io/)
+
+### Linux Management:
+- **Bash**: Alternative - [Zsh](https://www.zsh.org/)
+- **tmux**: Alternative - [Screen](https://www.gnu.org/software/screen/)
+- **htop**: Alternative - [Glances](https://nicolargo.github.io/glances/)
+- **rsync**: Alternative - [Rclone](https://rclone.org/)
+- **Ansible**: Alternative - [SaltStack](https://saltproject.io/)
+- **Cacti**: Alternative - [Zabbix](https://www.zabbix.com/)
+
